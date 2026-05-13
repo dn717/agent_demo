@@ -18,6 +18,8 @@ in the terminal, run `python main.py`.
 
 
 ## Sample
-here is the example of the input and output with communicating with agent let it invoke tools.
+here is the example of the input and output for communicating with agent let it invokes tools.
+<img width="873" height="578" alt="agent_output" src="https://github.com/user-attachments/assets/ff938d03-33a0-4d78-a315-a12e49723aed" />
+
 
 
